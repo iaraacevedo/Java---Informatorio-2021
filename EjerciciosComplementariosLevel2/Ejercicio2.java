@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Ejercicio22 {
+public class Ejercicio2 {
     public static void main(String[] args) {
         ArrayList<Integer> num = new ArrayList<Integer>();
         num.add(0);

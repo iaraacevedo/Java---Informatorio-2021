@@ -1,4 +1,4 @@
-public class Ejercicio21 {
+public class Ejercicio1 {
     public static void main(String[] args){
        String [] ciudades = {"#1 - San Ignacio", "#2 - Oberá", "#3 - Corrientes"};
 
